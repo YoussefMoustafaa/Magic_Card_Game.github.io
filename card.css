@@ -37,7 +37,7 @@ span:nth-of-type(2) {
     margin-bottom: auto;
     display: flex;
     flex-wrap: wrap;
-    perspective: 20000px;
+    perspective: 10000px;
 
 }
 
@@ -75,7 +75,7 @@ span:nth-of-type(2) {
     background-color: hsl(300, 100%, 24%);
     border-radius: 5px;
     position: absolute;
-    backface-visibility: hidden;
+
 }
 
 .front-face {
