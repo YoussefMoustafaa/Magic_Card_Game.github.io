@@ -1,8 +1,6 @@
 const cards = document.querySelectorAll(".memory-card")
 const memoryGame = document.querySelector(".memory-game")
 
-const greet = "hello world!"
-
 let hasFlippedCard = false
 let lockBoard = false
 let matchingCards = 0
